@@ -60,9 +60,8 @@ README.md                  # Project overview
 
 ## 📸 Output Screenshot
 
-![Sales Predictor Output](<img width="1920" height="970" alt="output scr shot" src="https://github.com/user-attachments/assets/5f63524e-7803-4825-a906-2c720fca18e4" />)
-
-> 📝 Replace `screenshot.png` with your actual image filename after uploading to your GitHub repository.
+![Sales Predictor Output](<img width="1920" height="970" alt="output scr shot" src="https://github.com/user-attachments/assets/4e7d7cb6-8bc5-4a2d-bf50-f7096fcc4f4c" />
+)
 
 ---
 
